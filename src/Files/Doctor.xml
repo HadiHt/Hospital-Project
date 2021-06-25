@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Doctors>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    <Doctor>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Doctor_id>13</Doctor_id>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Name>Ali Haidar</Name>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Username>Noob</Username>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Password>Ali16611881</Password>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Birthdate>13/6/1999</Birthdate>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </Doctor>
+                                
+    
+    
+    
+    
+    
+    
+    
+    <Doctor>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Doctor_id>15</Doctor_id>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Name>doctor doctor</Name>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Username>doctor123</Username>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Password>123</Password>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Birthdate>9/7/1981</Birthdate>
+                                                            
+    
+    
+    
+    
+    
+    
+    </Doctor>
+                            
+
+    
+    
+    
+    
+    
+    <Doctor>
+                                                
+        
+        
+        
+        
+        <Doctor_id>17</Doctor_id>
+                                                
+        
+        
+        
+        
+        <Name>testtest test</Name>
+                                                
+        
+        
+        
+        
+        <Username>testtest</Username>
+                                                
+        
+        
+        
+        
+        <Password>testtest</Password>
+                                                
+        
+        
+        
+        
+        <Birthdate>8/8/1978</Birthdate>
+                                            
+    
+    
+    
+    
+    </Doctor>
+                    
+    
+    
+    
+    
+    <Doctor>
+                                        
+        
+        
+        
+        <Doctor_id>18</Doctor_id>
+                                        
+        
+        
+        
+        <Name>test2t test2</Name>
+                                        
+        
+        
+        
+        <Username>test2</Username>
+                                        
+        
+        
+        
+        <Password>test2</Password>
+                                        
+        
+        
+        
+        <Birthdate>9/9/1979</Birthdate>
+                                    
+    
+    
+    
+    </Doctor>
+                
+    
+    
+    
+    <Doctor>
+                                
+        
+        
+        <Doctor_id>19</Doctor_id>
+                                
+        
+        
+        <Name>Moe Khoder</Name>
+                                
+        
+        
+        <Username>Moee</Username>
+                                
+        
+        
+        <Password>1661</Password>
+                                
+        
+        
+        <Birthdate>10/12/1974</Birthdate>
+                            
+    
+    
+    </Doctor>
+            
+    
+    
+    <Doctor>
+                        
+        
+        
+        <Doctor_id>20</Doctor_id>
+                        
+        
+        
+        <Name>net beans</Name>
+                        
+        
+        
+        <Username>netbeanss</Username>
+                        
+        
+        
+        <Password>16611881</Password>
+                        
+        
+        
+        <Birthdate>10/10/1979</Birthdate>
+                        
+    
+    
+    </Doctor>
+            
+    
+    
+    <Doctor>
+                        
+        
+        
+        <Doctor_id>21</Doctor_id>
+                        
+        
+        
+        <Name>Majd Ghareeb</Name>
+                        
+        
+        
+        <Username>majd</Username>
+                        
+        
+        
+        <Password>123</Password>
+                        
+        
+        
+        <Birthdate>10/8/1979</Birthdate>
+                        
+    
+    
+    </Doctor>
+            
+    
+    
+    <Doctor>
+                        
+        
+        <Doctor_id>24</Doctor_id>
+                        
+        
+        <Name>moe moe</Name>
+                        
+        
+        <Username>moe</Username>
+                        
+        
+        <Password>moe</Password>
+                        
+        
+        <Birthdate>10/9/1981</Birthdate>
+                    
+    
+    </Doctor>
+        
+    
+    <Doctor>
+                
+        <Doctor_id>25</Doctor_id>
+                
+        <Name>HTK HTK</Name>
+                
+        <Username>hadi.hoteit1661@gmail.com</Username>
+                
+        <Password>Hadi16611881</Password>
+                
+        <Birthdate>9/11/1980</Birthdate>
+            
+    </Doctor>
+    
+    <Doctor>
+        <Doctor_id>26</Doctor_id>
+        <Name>hadi hadi</Name>
+        <Email>hadi.hoteit1661@gmail.com</Email>
+        <Password>123</Password>
+        <Birthdate>7/7/1976</Birthdate>
+    </Doctor>
+</Doctors>

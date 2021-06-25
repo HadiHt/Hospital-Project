@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Visits>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    <Visit>
+                                                                  
+        
+        
+        
+        
+        
+        
+        
+        
+        <Patient_id>13</Patient_id>
+                                                                  
+        
+        
+        
+        
+        
+        
+        
+        
+        <Doctor_id>3</Doctor_id>
+                                                                 
+        
+        
+        
+        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </Visit>
+                                
+    
+    
+    
+    
+    
+    
+    
+    <Visit>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Patient_id>1</Patient_id>
+                                                                
+        
+        
+        
+        
+        
+        
+        <Doctor_id>10</Doctor_id>
+                                                                
+        
+        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                                            
+    
+    
+    
+    
+    
+    
+    </Visit>
+                            
+    
+    
+    
+    
+    
+    
+    <Visit>
+                                                        
+        
+        
+        
+        
+        
+        <Patient_id>12</Patient_id>
+                                                        
+        
+        
+        
+        
+        
+        <Doctor_id>13</Doctor_id>
+                                                        
+        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                                    
+    
+    
+    
+    
+    
+    </Visit>
+                        
+    
+    
+    
+    
+    
+    <Visit>
+                                                
+        
+        
+        
+        
+        <Patient_id>1</Patient_id>
+                                                
+        
+        
+        
+        
+        <Doctor_id>19</Doctor_id>
+                                                
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                            
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        
+        <Patient_id>1</Patient_id>
+                                        
+        
+        
+        
+        
+        <Doctor_id>12</Doctor_id>
+                                        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                        
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        
+        <Patient_id>1</Patient_id>
+                                        
+        
+        
+        
+        
+        <Doctor_id>8</Doctor_id>
+                                        
+        
+        
+        
+        
+        <AppointmentDate>12 -&gt; 3</AppointmentDate>
+                                        
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        
+        <Patient_id>19</Patient_id>
+                                        
+        
+        
+        
+        
+        <Doctor_id>13</Doctor_id>
+                                        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                        
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        
+        <Patient_id>19</Patient_id>
+                                        
+        
+        
+        
+        
+        <Doctor_id>1</Doctor_id>
+                                        
+        
+        
+        
+        
+        <AppointmentDate>9 -&gt; 12</AppointmentDate>
+                                        
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        
+        <Patient_id>20</Patient_id>
+                                        
+        
+        
+        
+        
+        <Doctor_id>6</Doctor_id>
+                                        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                        
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        
+        <Patient_id>21</Patient_id>
+                                        
+        
+        
+        
+        
+        <Doctor_id>21</Doctor_id>
+                                        
+        
+        
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                                        
+    
+    
+    
+    
+    </Visit>
+                    
+    
+    
+    
+    
+    <Visit>
+                                        
+        
+        
+        
+        <Patient_id>25</Patient_id>
+                                        
+        
+        
+        
+        <Doctor_id>23</Doctor_id>
+                                        
+        
+        
+        
+        <AppointmentDate>12 -&gt; 3</AppointmentDate>
+                                    
+    
+    
+    
+    </Visit>
+                
+    
+    
+    
+    <Visit>
+                                
+        
+        
+        <Patient_id>25</Patient_id>
+                                
+        
+        
+        <Doctor_id>25</Doctor_id>
+                                
+        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                            
+    
+    
+    </Visit>
+            
+    
+    
+    <Visit>
+                        
+        
+        <Patient_id>25</Patient_id>
+                        
+        
+        <Doctor_id>21</Doctor_id>
+                        
+        
+        <AppointmentDate>3 -&gt; 6</AppointmentDate>
+                    
+    
+    </Visit>
+        
+    
+    <Visit>
+                
+        <Patient_id>26</Patient_id>
+                
+        <Doctor_id>26</Doctor_id>
+                
+        <AppointmentDate>9 -&gt; 12</AppointmentDate>
+            
+    </Visit>
+    
+    <Visit>
+        <Patient_id>25</Patient_id>
+        <Doctor_id>26</Doctor_id>
+        <AppointmentDate>9 -&gt; 12</AppointmentDate>
+    </Visit>
+</Visits>
